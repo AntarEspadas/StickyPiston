@@ -1,0 +1,7 @@
+﻿{
+  "Token":  "",
+  "Channel": 0,
+  "File": "java",
+  "Args": "-jar server.jar -nogui",
+  "WorkingDir": "."
+}
